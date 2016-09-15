@@ -1,1 +1,5 @@
-body{background-color:DeepSkyBlue;color:white;text-align:center;}
+body{background-color:DeepSkyBlue;color:white;text-align:center;font-size:20pt}
+img{
+	padding:20px;
+	border:30px solid black;
+}
